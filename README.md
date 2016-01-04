@@ -1,2 +1,2 @@
 # kujira-atsume
-Whale collector.
+Whale collector: the best one.
