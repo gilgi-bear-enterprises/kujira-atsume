@@ -1,0 +1,2 @@
+# kujira-atsume
+Whale collector.
