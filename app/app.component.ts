@@ -27,7 +27,7 @@ import {FurnitureComponent} from './furniture/furniture.component';
     {path:'/cafe/', name: 'Cafe', component: CafeComponent, useAsDefault: true},
     {path:'/cooking/', name: 'Cooking', component: CookingComponent},
     {path:'/crafting/', name: 'Crafting', component: CraftingComponent},
-    {path:'/inventory/', name: 'Inventory', component: InventoryComponent},
+    {path:'/inventory/...', name: 'Inventory', component: InventoryComponent},
     {path:'/food/', name: 'Food', component: FoodComponent},
     {path:'/furniture/', name: 'Furniture', component: FurnitureComponent},
 ])
